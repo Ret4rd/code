@@ -1,0 +1,7 @@
+"time": "2018-07-04 00:30:01,171", "levelname": "INFO", "message": "CoefficientsOfX: [[1.0, 2.0, 5.0, -6.0], [8.0, 9.6, 2.0, 5.0], [0.0, 1.0, 8.0, 4.0], [1.0, 2.0, 3.0, 4.0]], freeCoefficients: [0.0, 0.0, 0.0, 0.0], result: [ 0.  0. -0. -0.]"
+"time": "2018-07-04 00:42:34,581", "levelname": "ERROR", "message": "Деление на ноль"
+"time": "2018-07-04 00:43:08,888", "levelname": "INFO", "message": "CoefficientsOfX: [[2.0, 2.0], [1.0, 9.6]], freeCoefficients: [5.0, 3.0], result: [2.44186047 0.05813953]"
+"time": "2018-07-04 00:47:29,782", "levelname": "INFO", "message": "CoefficientsOfX: [[2.0, 2.0], [1.0, 9.6]], freeCoefficients: [5.0, 3.0], result: [2.44186047 0.05813953]"
+"time": "2018-07-04 00:47:59,966", "levelname": "ERROR", "message": "Ошибка чтения"
+"time": "2018-07-04 00:54:09,676", "levelname": "ERROR", "message": "Ошибка чтения"
+"time": "2018-07-04 00:56:47,100", "levelname": "INFO", "message": "CoefficientsOfX: [[2.0, 2.0], [1.0, 9.6]], freeCoefficients: [5.0, 3.0], result: [2.44186047 0.05813953]"
